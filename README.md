@@ -1,2 +1,2 @@
 # video_website
-* A website that plays a video
+* A website that plays a video.
